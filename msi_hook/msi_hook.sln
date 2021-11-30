@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "msi_hook", "msi_hook.vcxproj", "{6E06CD6D-178D-42B0-AAB6-40548435C1B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E06CD6D-178D-42B0-AAB6-40548435C1B5}.Debug|x64.ActiveCfg = Debug|x64
+		{6E06CD6D-178D-42B0-AAB6-40548435C1B5}.Debug|x64.Build.0 = Debug|x64
+		{6E06CD6D-178D-42B0-AAB6-40548435C1B5}.Debug|x86.ActiveCfg = Debug|Win32
+		{6E06CD6D-178D-42B0-AAB6-40548435C1B5}.Debug|x86.Build.0 = Debug|Win32
+		{6E06CD6D-178D-42B0-AAB6-40548435C1B5}.Release|x64.ActiveCfg = Release|x64
+		{6E06CD6D-178D-42B0-AAB6-40548435C1B5}.Release|x64.Build.0 = Release|x64
+		{6E06CD6D-178D-42B0-AAB6-40548435C1B5}.Release|x86.ActiveCfg = Release|Win32
+		{6E06CD6D-178D-42B0-AAB6-40548435C1B5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E02750E-A66C-45F4-A832-7615639D4023}
+	EndGlobalSection
+EndGlobal
